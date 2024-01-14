@@ -170,3 +170,14 @@ main section {
     font-weight: 700;
     line-height: normal;
 }
+.resume-container {
+    display: flex;
+    padding: 0 230px;
+    gap: 50px;
+}
+.resume-item-institute, .resume-item-description {
+    color: #757575;
+}
+.download-cv {
+   text-align: center;
+}
